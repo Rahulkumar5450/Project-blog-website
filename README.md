@@ -1,2 +1,2 @@
-# Project-blog-website
-java
+# Event-booking-portal
+event-booking-portal
